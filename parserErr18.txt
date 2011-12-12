@@ -1,0 +1,2 @@
+program Adam begin var1 := 5 end
+garbage

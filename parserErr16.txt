@@ -1,0 +1,1 @@
+program Adam begin 1 + end

@@ -1,0 +1,1 @@
+program Adam write ( -5 ) end
